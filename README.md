@@ -21,7 +21,7 @@
 ## Deploying
 
 ### Deploy on [Heroku](https://heroku.com)
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Technical-Jigar/Google-Drive-Telegram-Bot/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rajaganapathy2000/Google-Drive-Telegram-Bot/master)
 
 ### Installation
 - Install required modules.
